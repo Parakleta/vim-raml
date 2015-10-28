@@ -103,9 +103,9 @@ syn keyword responseMimeField contained schema example
 hi link ramlVersion Define
 hi link field Label
 hi link parameter Identifier
-hi link protocol Constant
-hi link methodBody Constant
-hi link method Function
+hi link protocol Type
+hi link methodBody Type
+hi link method Type
 hi link resource Underlined
 
 hi link parameterField field

@@ -1,6 +1,7 @@
-" Vim syntax file
-" Language: RAML
-" Maintainer: Duane Leslie
+" Language:   RAML
+" Maintainer: Duane Leslie <parakleta@darkreality.org>
+" URL:        https://github.com/parakleta/vim-raml
+" LICENSE:    MIT
 
 syn match ramlVersion "^#%RAML\s\+\d.\d\ze\_s"
 

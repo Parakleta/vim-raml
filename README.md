@@ -1,8 +1,21 @@
-vim-raml
-========
+# vim-raml
 
-RAML plugin for VIM
+Vim syntax for [RAML](http://raml.org/).
 
-Example
--------
-[Example RAML File](https://raw.githubusercontent.com/raml-org/raml-tutorial-200/step8/jukebox-api.raml)
+## Installation
+
+### [Vim-Addon-Manager](https://github.com/MarcWeber/vim-addon-manager)
+
+`VAMActivate github:parakleta/vim-raml`
+
+### [Pathogen](https://github.com/tpope/vim-pathogen)
+
+Can someone let me know?
+
+### [Vundle](https://github.com/gmarik/Vundle.vim)
+
+Can someone let me know?
+
+## Contributing
+
+Contributions are welcome.  This is my first attempt at a syntax file.

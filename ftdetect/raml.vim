@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.raml set filetype=raml
+au BufRead,BufNewFile *.raml set filetype=yaml.raml
